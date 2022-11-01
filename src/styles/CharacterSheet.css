@@ -1,0 +1,50 @@
+.ability-stats{
+    display: flex;
+    justify-content: space-between;
+    width:50%;
+}
+
+.ability-score{
+height: 100px;
+width: 100px;
+border: 1px solid;
+text-align: center;
+}
+
+.ab-mod-box{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+}
+
+.ab-modifier{
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+    text-align: center;
+    }
+
+.proficiency-bonus{
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+}
+
+.walking-speed{
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+}
+
+.inspiration{
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+}
+
+.hit-points{
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+}
